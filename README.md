@@ -1,5 +1,7 @@
 # Law Indexes: Virginia
 
+[![DOI](https://zenodo.org/badge/737969226.svg)](https://zenodo.org/doi/10.5281/zenodo.10450174)
+
 ## Summary
 
 As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this respository has been created to disseminate law index data for the Commonwealth of Virginia.

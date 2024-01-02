@@ -34,7 +34,7 @@ The following Source Works were used to create this law index:
 
 | Citation | Coverage | Online Version | Notes |
 | -------- | -------- | -------------- | ----- |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Enrolled Bills of the General Assembly of Virginia, 1776 to 1910.* Richmond, Va: Virginia Superintendent of Public Printing: 1911. | 1776-1910 | [Internet Archive](https://archive.org/details/cu31924006511921/) | Copyright expired in the United States. Version used for this index taken from cited Online Version. Some illegible figures taken from older editions. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Enrolled Bills of the General Assembly of Virginia, 1776 to 1910.* Richmond, Va.: Virginia Superintendent of Public Printing: 1911. | 1776-1910 | [Internet Archive](https://archive.org/details/cu31924006511921/) | Copyright expired in the United States. Version used for this index taken from cited Online Version. Some illegible figures taken from older editions. |
 
 Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 

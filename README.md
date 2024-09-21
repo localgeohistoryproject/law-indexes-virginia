@@ -4,7 +4,7 @@
 
 ## Summary
 
-As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this respository has been created to disseminate law index data for the Commonwealth of Virginia.
+As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this repository has been created to disseminate law index data for the Commonwealth of Virginia.
 
 This index currently covers enrolled bills from 1776 through 1910. Prior to the 20th century, private and special laws were often the primary method used to alter municipal and county boundaries and forms of government in Virginia. The law index is released as a tab-separated values (TSV) file, **output/VaLawIndex.tsv**.
 

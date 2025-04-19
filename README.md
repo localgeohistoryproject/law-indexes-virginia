@@ -35,12 +35,20 @@ The following Source Works were used to create this law index:
 | Citation | Coverage | Online Version | Notes |
 | -------- | -------- | -------------- | ----- |
 | Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Enrolled Bills of the General Assembly of Virginia, 1776 to 1910.* Richmond, Va.: Virginia Superintendent of Public Printing: 1911. | 1776-1910 | [Internet Archive](https://archive.org/details/cu31924006511921/) | Copyright expired in the United States. Version used for this index taken from cited Online Version. Some illegible figures taken from older editions. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1912-1959.* Richmond, Va.: Virginia Department of Purchases and Supply, 1959. | 1912-1959 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280227l) | No copyright notice found. Version used for this index digitized by contractor from hardcopy. |
+| Virginia [Clerk of the House of Delegates and Keeper of the Rolls]. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1960-1965.* Richmond, Va.: Virginia Department of Purchases and Supply, 1972. | 1960-1965 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280232s) | No copyright notice found. Version used for this index personally digitized from hardcopy. |
+| Virginia [Clerk of the House of Delegates and Keeper of the Rolls]. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1966-1970.* Richmond, Va.: Virginia Department of Purchases and Supply, 1975. | 1966-1970 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280237i) | No copyright notice found. Version used for this index digitized by contractor from hardcopy. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1971-1975.* Richmond, Va.: Virginia Department of Purchases and Supply, 1977. | 1971-1975 | | No copyright notice found. Version used for this index digitized by contractor from hardcopy. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1976-1980.* Richmond, Va.: Commonwealth of Virginia, 1980. | 1976-1980 | | No copyright notice found. Version used for this index digitized by contractor from hardcopy. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1981-1985.* Richmond, Va.: Commonwealth of Virginia, 1985. | 1981-1985 | | No copyright notice found. Version used for this index digitized by contractor from hardcopy. |
 
 Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 
 Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 2004-2023. <https://guides.library.cornell.edu/copyright/publicdomain>.
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
+
+By correspondence dated January 22, 2024, the Virginia Clerk of the House of Delegates and Keeper of the Rolls confirmed it believed it did not claim copyright interests in its index volumes, and permitted the release of transcription of further volumes as part of this project.
 
 ## Methodology
 
@@ -62,4 +70,4 @@ The following is a general methodology for how the law indexes were derived from
 - For certain data types, data integrity checks are done to ensure the data makes sense (e.g., whether years are digits and fall in the correct time period).
 - The data points are combined and reorganized using a Python script to create the final report. As part of this reorganization, it is determined where repeating data points like subjects start and end.
 
-[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. <https://www.archives.gov/research/reparative-description/harmful-content>.
+[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. Archived 16 January 2025 by Wayback Machine. <https://web.archive.org/web/20250116215713/https://www.archives.gov/research/reparative-description/harmful-content>.

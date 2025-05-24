@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Expanded law index forward through 1995.
+
 ### Fixed
 
 - README Citation that included a removed federal government link to use Wayback Machine.

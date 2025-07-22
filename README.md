@@ -42,8 +42,8 @@ The following Source Works were used to create this law index:
 | Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1971-1975.* Richmond, Va.: Virginia Department of Purchases and Supply, 1977. | 1971-1975 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
 | Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1976-1980.* Richmond, Va.: Commonwealth of Virginia, 1980. | 1976-1980 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
 | Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1981-1985.* Richmond, Va.: Commonwealth of Virginia, 1985. | 1981-1985 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1986-1990.* Richmond, Va.: Commonwealth of Virginia, 1990. | 1986-1990 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated January 22, 2024. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1991-1995.* Richmond, Va.: Commonwealth of Virginia, 1995. | 1991-1995 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated January 22, 2024. Version used for this index digitized by contractor from hard copy. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1986-1990.* Richmond, Va.: Commonwealth of Virginia, 1990. | 1986-1990 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated 22 January 2024. Version used for this index digitized by contractor from hard copy. |
+| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1991-1995.* Richmond, Va.: Commonwealth of Virginia, 1995. | 1991-1995 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated 22 January 2024. Version used for this index digitized by contractor from hard copy. |
 
 Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 
@@ -51,7 +51,7 @@ Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Co
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
 
-By correspondence dated January 22, 2024, the Virginia Clerk of the House of Delegates and Keeper of the Rolls confirmed it believed it did not claim copyright interests in its index volumes, and permitted the release of transcription of further volumes as part of this project.
+By correspondence dated 22 January 2024, the Virginia Clerk of the House of Delegates and Keeper of the Rolls confirmed it believed it did not claim copyright interests in its index volumes, and permitted the release of transcription of further volumes as part of this project.
 
 ## Methodology
 

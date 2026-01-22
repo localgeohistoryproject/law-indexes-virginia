@@ -7,6 +7,10 @@
 - Expanded law index forward through 1995.
 - to README, Harmful Content: an additional sentence regarding graphic content.
 
+### Changed
+
+- Renamed data file to accommodate one file per volume in volume type folders.
+
 ### Fixed
 
 - Minor spelling and stylistic corrections.

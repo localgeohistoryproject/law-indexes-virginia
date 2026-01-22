@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [2.0.0] - Unreleased
 
 ### Added
 
@@ -9,7 +9,9 @@
 
 ### Changed
 
-- Renamed data file to accommodate one file per volume in volume type folders.
+- Citation Year field to standardize format of years.
+- Index Volume field to use Coverage instead of year published.
+- TSV file folder and name to accommodate one file per volume in volume type folders.
 
 ### Fixed
 
@@ -42,7 +44,7 @@
 
 - Public release of the Law Indexes: Virginia repository.
 
-[Unreleased]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.1.0...develop
+[2.0.0]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.1.0...develop
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/localgeohistoryproject/law-indexes-virginia/releases/tag/v1.0.0

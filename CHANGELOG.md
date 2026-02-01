@@ -1,9 +1,16 @@
 # Changelog
 
+## [Unreleased]
+
+### Fixed
+
+- Prior CHANGELOG omission.
+
 ## [2.0.0] - 2026-02-01
 
 ### Added
 
+- Citation Bill Type and Citation Bill Number columns.
 - Expanded law index forward through 1995.
 - to README, Acknowledgments.
 - to README, Harmful Content: an additional sentence regarding graphic content.
@@ -47,6 +54,7 @@
 
 - Public release of the Law Indexes: Virginia repository.
 
+[Unreleased]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v2.0.0...develop
 [2.0.0]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.1.0...v2.0.0
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/localgeohistoryproject/law-indexes-virginia/compare/v1.0.0...v1.0.1

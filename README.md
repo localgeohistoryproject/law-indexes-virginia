@@ -31,23 +31,9 @@ A header row containing column names is included. When importing into a relation
 
 ## Source Works
 
-The following Source Works were used to create this law index:
+A complete list of the Source Works used in this repository is available under [Source Works.md](Source%20Works.md). Prior to inclusion, Source Works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 
-| Citation | Coverage | Online Version | Notes |
-| -------- | -------- | -------------- | ----- |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Enrolled Bills of the General Assembly of Virginia, 1776 to 1910.* Richmond, Va.: Virginia Superintendent of Public Printing, 1911. | 1776-1910 | [Internet Archive](https://archive.org/details/cu31924006511921/) | Copyright expired in the United States. Version used for this index taken from cited Online Version. Some illegible figures taken from older editions. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1912-1959.* Richmond, Va.: Virginia Department of Purchases and Supply, 1959. | 1912-1959 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280227l) | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia [Clerk of the House of Delegates and Keeper of the Rolls]. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1960-1965.* Richmond, Va.: Virginia Department of Purchases and Supply, 1972. | 1960-1965 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280232s) | No copyright notice found. Version used for this index personally digitized from hard copy. |
-| Virginia [Clerk of the House of Delegates and Keeper of the Rolls]. *Index of Acts of the General Assembly of the Commonwealth of Virginia, 1966-1970.* Richmond, Va.: Virginia Department of Purchases and Supply, 1975. | 1966-1970 | [HathiTrust](https://hdl.handle.net/2027/umn.31951d02280237i) | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1971-1975.* Richmond, Va.: Virginia Department of Purchases and Supply, 1977. | 1971-1975 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1976-1980.* Richmond, Va.: Commonwealth of Virginia, 1980. | 1976-1980 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1981-1985.* Richmond, Va.: Commonwealth of Virginia, 1985. | 1981-1985 | | No copyright notice found. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1986-1990.* Richmond, Va.: Commonwealth of Virginia, 1990. | 1986-1990 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated 22 January 2024. Version used for this index digitized by contractor from hard copy. |
-| Virginia Clerk of the House of Delegates and Keeper of the Rolls. *Index to Acts of the General Assembly of the Commonwealth of Virginia, 1991-1995.* Richmond, Va.: Commonwealth of Virginia, 1995. | 1991-1995 | | No copyright claimed by the Commonwealth of Virginia per correspondence dated 22 January 2024. Version used for this index digitized by contractor from hard copy. |
-
-Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
-
-Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 14 January 2025. <https://guides.library.cornell.edu/copyright/publicdomain>.
+Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 1 January 2026. <https://guides.library.cornell.edu/copyright/publicdomain>.
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
 

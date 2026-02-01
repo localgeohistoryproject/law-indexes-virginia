@@ -18,6 +18,8 @@ This is not an official publication of the Commonwealth of Virginia or any of it
 
 ## Acknowledgments
 
+Thanks to Katie Saucer, who scanned many of the Source Works used to create this digital index.
+
 ## Harmful Content
 
 The terms used in the law indexes were drawn from Source Works that were written before current diversity, equity, and inclusion principles were developed, and have not been updated to reflect modern standards. Some terms may:[^1]

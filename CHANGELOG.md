@@ -10,8 +10,8 @@
 ### Changed
 
 - Citation Year field to standardize format of years.
-- Moved Source Works table to separate file.
 - Index Volume field to use Coverage instead of year published.
+- Moved Source Works table to separate file.
 - TSV file folder and name to accommodate one file per volume in volume type folders.
 
 ### Fixed

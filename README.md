@@ -45,7 +45,7 @@ Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Co
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
 
-By correspondence dated 22 January 2024, the Virginia Clerk of the House of Delegates and Keeper of the Rolls confirmed it believed it did not claim copyright interests in its index volumes, and permitted the release of transcription of further volumes as part of this project.
+By correspondence dated 22 January 2024, the Virginia Clerk of the House of Delegates and Keeper of the Rolls confirmed it did not claim copyright in its index volumes, and permitted the release of transcriptions of further volumes as part of this project.
 
 ## Methodology
 

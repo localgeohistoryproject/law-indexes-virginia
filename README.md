@@ -14,6 +14,10 @@ Note that the Citation Page references for 1776 through 1910 are not to the publ
 
 This repository does not contain the full text of the laws, nor does it currently contain links to the full text. Because the index was created using OCR technology, it may contain uncaptured errors.
 
+This is not an official publication of the Commonwealth of Virginia or any of its instrumentalities, and is not affiliated with or endorsed by any government agency at any level.
+
+## Acknowledgments
+
 ## Harmful Content
 
 The terms used in the law indexes were drawn from Source Works that were written before current diversity, equity, and inclusion principles were developed, and have not been updated to reflect modern standards. Some terms may:[^1]
@@ -27,7 +31,7 @@ The terms used in the law indexes were drawn from Source Works that were written
 
 TSV files do not use quotation marks to escape fields containing tabs; therefore, the **String delimiter** option in LibreOffice Calc or the **Text qualifier** option in Microsoft Excel must be left blank to ensure the file imports accurately.
 
-The file uses Unix-style [line endings](https://en.wikipedia.org/wiki/Newline#Representations) (LF), which may have to be adjusted in applications that expect Windows-style line endings (CR LF).
+These files use Unix-style [line endings](https://en.wikipedia.org/wiki/Newline#Representations) (LF), which may have to be adjusted in applications that expect Windows-style line endings (CR LF).
 
 A header row containing column names is included. When importing into a relational database system, like PostgreSQL, it may be necessary to remove this header line, particularly when using the [PostgreSQL COPY function](https://www.postgresql.org/docs/16/sql-copy.html) in the Text Format.
 
